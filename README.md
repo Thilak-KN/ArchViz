@@ -4,7 +4,7 @@
 
 <p><strong><h3>About :</h3></strong>An interactive ArchViz (Not Production build, Need to include more features [Refer Road Map Section])</p>
 <p><strong><h3>Built with :</h3></strong>Unity Engine 2021.1.16f1</p>
-<p><strong><h3>Tools &amp; Assets used :</h3></strong>Unity Engine 2021.1.16f1, Blender 2.93, Substance Painter 7.1.1, Visual Studio 2019, Poly Haven, HDRLabs</p>
+<p><strong><h3>Tools &amp; Assets used :</h3></strong>Unity Engine 2021.1.16f1, Blender 2.93, Substance Painter 7.1.1, Visual Studio 2019, Poly Haven, HDRLabs, textures.com</p>
 <p><strong><h3>System Requirements :</h3></strong></p>
 <ul>
 <li>Windows 10</li>
