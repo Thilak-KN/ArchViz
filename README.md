@@ -1,5 +1,4 @@
-# ArchViz
-Architectural Visualization Demo File made with Unity Engine, Blender, Substance Painter.
+# ArchViz Demo
 
 About :
 	An interactive ArchViz (Not Production build, Need to include more features [Refer Road Map Section])
