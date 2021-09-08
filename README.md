@@ -1,4 +1,4 @@
-<h1>ArchViz Demo</h1>
+<h1>[Check out the Release section for download file]</h1>
 
 <p><strong><h3>About :</h3></strong>An interactive ArchViz (Not Production build, Need to include more features [Refer Road Map Section])</p>
 <p><strong><h3>Built with :</h3></strong>Unity Engine 2021.1.16f1</p>
