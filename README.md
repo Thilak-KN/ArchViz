@@ -1,4 +1,4 @@
-<h1>[Check out the Release section for download file]</h1>
+<h1>[Check out the Releases section for download file]</h1>
 
 <img src="https://raw.githubusercontent.com/Thilak-KN/ArchViz/main/Screenshot_1.png" alt="screenshot_1" width="256" height="144">  <img src="https://github.com/Thilak-KN/ArchViz/blob/main/Screenshot_2.png?raw=true" alt="screenshot_2" width="256" height="144">  <img src="https://github.com/Thilak-KN/ArchViz/blob/main/Screenshot_3.png?raw=true" alt="screenshot_3" width="256" height="144">
 
